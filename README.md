@@ -17,5 +17,5 @@ Please refer to https://wiki.connectall.com/ca/latest/adapters/universal-adapter
 * In the field mapping tab add the field that you want to sync between the applications.
 * Add the value for applicationId and entityId (see included screenshots in this repository).
 
-> In order to use the Rharness.ioapid7 adapter you will need to get the license from ConnectALL sales team. Please reach out to sales@connectall.com for licenses and quotes.
+> In order to use the harness.io adapter you will need to get the license from ConnectALL sales team. Please reach out to sales@connectall.com for licenses and quotes.
 
