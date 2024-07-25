@@ -1,4 +1,4 @@
-# connectall-harness.io-adapter
+# ua-harness.io
 ConnectAll universal adapter to sync harness.io deployment executions
 
 The ConnectALL harness.io Adapter is developed as an extension to the Universal Adapter capability of ConnectALL. The adapter specifications will let the user start a new deployment, and retrieve the deployment status (pass or fail) back.
